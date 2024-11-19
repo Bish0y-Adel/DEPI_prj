@@ -1,0 +1,283 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DEPI_Project1
+build_property.RootNamespace = DEPI_Project1
+build_property.ProjectDir = E:\DEPI project\TT-2\TT\DEPI_Project1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\DEPI project\TT-2\TT\DEPI_Project1
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/AdminAdministration/HomeControler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pbmlzdHJhdGlvblxIb21lQ29udHJvbGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/AdminAdministration/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pbmlzdHJhdGlvblxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Admins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Admins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Enrollments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Enrollments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Enrollments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Enrollments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Enrollments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/CourseDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXENvdXJzZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXENvdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXENyZWF0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/CreateLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXENyZWF0ZUxlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/DeleteCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXERlbGV0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/DeleteLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXERlbGV0ZUxlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXEVkaXRDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/EditLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXEVkaXRMZXNzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/LessonDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXExlc3NvbkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/Lessons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXExlc3NvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/InstructorAdministration/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvckFkbWluaXN0cmF0aW9uXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Instructors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Instructors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Instructors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Instructors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Instructors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Lessons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Lessons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Lessons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Lessons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Lessons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/StudentAdministration/CourseDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFkbWluaXN0cmF0aW9uXENvdXJzZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/StudentAdministration/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFkbWluaXN0cmF0aW9uXENvdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/StudentAdministration/EnrollCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFkbWluaXN0cmF0aW9uXEVucm9sbENvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/StudentAdministration/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFkbWluaXN0cmF0aW9uXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/UserProgresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2dyZXNzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/UserProgresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2dyZXNzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/UserProgresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2dyZXNzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/UserProgresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2dyZXNzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/UserProgresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2dyZXNzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DEPI project/TT-2/TT/DEPI_Project1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kppf86sh2y

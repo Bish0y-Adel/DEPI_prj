@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI project\\TT-2\\TT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|e:\\depi project\\tt-2\\tt\\depi_project1\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|solutionrelative:depi_project1\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|e:\\depi project\\tt-2\\tt\\depi_project1\\controllers\\adminadministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|solutionrelative:depi_project1\\controllers\\adminadministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|e:\\depi project\\tt-2\\tt\\depi_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|solutionrelative:depi_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|e:\\depi project\\tt-2\\tt\\depi_project1\\controllers\\studentadministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|solutionrelative:depi_project1\\controllers\\studentadministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|e:\\depi project\\tt-2\\tt\\depi_project1\\controllers\\instructoradministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CCFEB-048B-4F2F-AAB9-8AB89B1D306B}|DEPI_Project1\\DEPI_Project1.csproj|solutionrelative:depi_project1\\controllers\\instructoradministrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DEPI_Project1\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DEPI_Project1\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:10:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Program.cs",
+              "RelativeDocumentMoniker": "DEPI_Project1\\Program.cs",
+              "ToolTip": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Program.cs",
+              "RelativeToolTip": "DEPI_Project1\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:03:25.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentAdministrationController.cs",
+              "DocumentMoniker": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\StudentAdministrationController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project1\\Controllers\\StudentAdministrationController.cs",
+              "ToolTip": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\StudentAdministrationController.cs",
+              "RelativeToolTip": "DEPI_Project1\\Controllers\\StudentAdministrationController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:01:19.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorAdministrationController.cs",
+              "DocumentMoniker": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\InstructorAdministrationController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project1\\Controllers\\InstructorAdministrationController.cs",
+              "ToolTip": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\InstructorAdministrationController.cs",
+              "RelativeToolTip": "DEPI_Project1\\Controllers\\InstructorAdministrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:01:18.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAdministrationController.cs",
+              "DocumentMoniker": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\AdminAdministrationController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project1\\Controllers\\AdminAdministrationController.cs",
+              "ToolTip": "E:\\DEPI project\\TT-2\\TT\\DEPI_Project1\\Controllers\\AdminAdministrationController.cs",
+              "RelativeToolTip": "DEPI_Project1\\Controllers\\AdminAdministrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:01:14.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
